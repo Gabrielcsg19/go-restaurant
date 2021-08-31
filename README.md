@@ -1,6 +1,6 @@
 <h1 align="center">GoRestaurant</h1><br>
 
-![Screenshot 2021-08-17 at 09-15-25 GoRestaurant](https://user-images.githubusercontent.com/54643425/129724053-78ce3f8e-0dd3-40c1-b67c-dbc50b39a0e9.png)
+![Screenshot 2021-08-17 at 09-15-25 GoRestaurant](https://raw.githubusercontent.com/Gabrielcsg19/go-restaurant/master/assets/cover-img.png)
 
 ---
 Sistema CRUD para restaurante com interface desenvolvida em __React.js__ e dados servidos pelo __json-server.js__.
